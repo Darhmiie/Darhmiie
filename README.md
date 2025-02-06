@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Darhmiie
+- 👋 Hi, I’m @Damilola Sarah Akeredolu
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any Data Analysis project
+- 💞️ I’m looking to collaborate on any Data Analysis project/job
 - 📫 How to reach me instagram @dar_hmiie
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm fun to work with and open to learn new things
